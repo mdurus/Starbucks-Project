@@ -43,5 +43,5 @@ I have used 2 different models to select the effective one. Decision tree is nor
 We must acknowledge Starbucks for data sharing and Udacity course for directions during learning journey.
 
 You can check detailed report from the link below.
-https://mahmutdurusss.medium.com/evaluation-of-starbucks-offers-and-analysis-results-6de997b6644
+[here](https://mahmutdurusss.medium.com/evaluation-of-starbucks-offers-and-analysis-results-6de997b6644)
 
