@@ -20,22 +20,28 @@ JSON files are provided by Starbucks and Udacity. The data is contained in three
 - transcript.json - records for transactions, offers received, offers viewed, and offers completed
 
 ## Results
-Men customer who were 20-45 years old responded to offer 7 and 8 higher than other offers.
+1-) Insights from visualizations
 
-Men customer who were 45-60 years old responded to other offers rather than 7 and 8.
+- Men customer who were 20-45 years old responded to offer 7 and 8 higher than other offers.
 
-Men customer who have 35K to 50K income responded to other offers rather than 4,6,9.
+- Men customer who were 45-60 years old responded to other offers rather than 7 and 8.
 
-Women are less sensitive to offer types but they have a tendecy to discount offers. Increase discount offers for women.
+- Men customer who have 35K to 50K income responded to other offers rather than 4,6,9.
 
-Women customer who have 65K to 85K income responded to offer 1 and 10.
+- Women are less sensitive to offer types but they have a tendecy to discount offers. Increase discount offers for women.
 
-Focus on offer 7,8,5 and 1 in general. Retention rate is higher.
+- Women customer who have 65K to 85K income responded to offer 1 and 10.
 
-3th and 4th year members has higher retention rate in general.
+- Focus on offer 7,8,5 and 1 in general. Retention rate is higher.
+
+- 3th and 4th year members has higher retention rate in general.
+
+2-) Model results
+I have used 2 different models to select the effective one. Decision tree is normally used to prospective customers with using demographics data. Random forest also has similar usages so I try both of them. Decision Tree gives the best results according to F1 score.
 
 ## Acknowledgements
 We must acknowledge Starbucks for data sharing and Udacity course for directions during learning journey.
 
 You can check detailed report from the link below.
-The link to be added.
+https://mahmutdurusss.medium.com/evaluation-of-starbucks-offers-and-analysis-results-6de997b6644
+
